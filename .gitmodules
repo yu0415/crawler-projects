@@ -1,0 +1,3 @@
+[submodule "fbig-link-inspector"]
+	path = fbig-link-inspector
+	url = https://github.com/yu0415/fbig-link-inspector.git
